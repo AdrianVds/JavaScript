@@ -46,11 +46,11 @@ let filmes3 = {
     ${this.atores} `
     }
 }
-// let lista_arrays = []
-// lista_arrays.push(filmes1.dados)
-// lista_arrays.push(filmes2.dados1)
-// lista_arrays.push(filmes3.dados2)
-// console.log(lista_arrays[0])
+let lista_arrays = []
+lista_arrays.push(filmes1.dados)
+lista_arrays.push(filmes2.dados1)
+lista_arrays.push(filmes3.dados2)
+console.log(lista_arrays[0])
 
 console.log(filmes1.dados())
 console.log()
