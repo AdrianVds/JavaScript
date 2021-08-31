@@ -5,7 +5,7 @@ const prompt = require('prompt-sync')();
 // - Nome
 // - Duração
 // - Ano
-// - Diretor
+// - Diretor ok
 // - Atores principais(lista)
 // - Dados (função anônima que retorna uma string com os dados do filme)
 // No final mostra no console os dados de todos os filmes ao mesmo 
