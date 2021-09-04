@@ -28,4 +28,21 @@ for(let a =0;a<jogadoresQuantidade;a+=1){
 }
 console.log(arrayzin) /// terminar
 
+// Oi Adrian
+// for (let c = 0; c < rodadas; c++) {
+//     let jogos = [];
+//     for (let i = 0; i < qtsJogadores; i++) {
+//         let jogo = {
+//             nome: "Jogador" + (i + 1),
+//             numero: Math.floor(Math.random() * 6 + 1),
+//         };
+//         jogos.push(jogo);
 
+//         jogos.sort((a, b) => {
+//             if (b.numero < a.numero) {
+//                 return -1;
+//             } else {
+//                 return true;
+//             }
+//         });
+//     }
